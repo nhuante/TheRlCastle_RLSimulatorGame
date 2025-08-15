@@ -8,7 +8,7 @@ This project demonstrates how reinforcement learning (RL) algorithms can be visu
 
 ## Project Contents
 
-In this submission folder, you will find:
+In the root folder of this repo, you will find:
 
 - Unity project Assets, Scripts, etc.
 - `TheRLCastle_Demo.mp4` - short video thumbnail
